@@ -12,8 +12,9 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("This is a test");
-        System.out.println("Here is a revision");
-        System.out.println("Here is another line of text so I can edit one and delete the other");
+        System.out.println("Here is a revisised line of code");
+        System.out.println("Testing the system. Why is this line part of blue?!");
+        System.out.println("Heres another line of code");
     }
 
 }

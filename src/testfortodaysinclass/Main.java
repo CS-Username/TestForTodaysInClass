@@ -10,6 +10,7 @@ package testfortodaysinclass;
 
 public class Main {
 
+    //Comment number 2 representing my new branch
     public static void main(String[] args) {
         System.out.println("This is a test");
         System.out.println("Here is a revisised line of code");
